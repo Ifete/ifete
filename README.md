@@ -1,28 +1,23 @@
-<img align="left" height="150" src="https://github.com/Ifete/Curriculum/blob/master/assets/img/fotNavResize.jpeg?raw=true"  />
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<img align="left" height="160" src="https://github.com/Ifete/Curriculum/blob/master/assets/img/fotNavResize.jpeg?raw=true"  />
 
 ###
+
+<p align="left">I'm Irene Ferrando Terradez from Spain<br><br>- 🔭 I’m working as Velneo Developer<br>- 📚 I'm currently studying the higher degree in multiplatform application development<br>- 🌐 <a href="https://ifete.github.io/Curriculum/" target="_blank">Curriculum Vitae</a></p>
+
+
+###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/irene-ferrando-terradez-b861a51b2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Irene Ferrando Terradez from Spain<br><br>- 🔭 I’m working as Velneo Developer<br>- 📚 I'm currently studying the higher degree in multiplatform application development</p>
 
 ###
 
